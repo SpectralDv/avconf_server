@@ -1,0 +1,5 @@
+//подключение
+{"type":"store_user","name":"name_user"}
+//вызов пользователя
+{"type":"start_call","name":"name_user","target":"name_user_for_call"}
+
